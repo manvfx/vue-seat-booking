@@ -1,6 +1,6 @@
 <script setup>
-import "roboto-fontface/css/roboto/sass/roboto-fontface-regular.scss";
-import "roboto-fontface/css/roboto/sass/roboto-fontface-bold.scss";
+// import "roboto-fontface/css/roboto/sass/roboto-fontface-regular.scss";
+// import "roboto-fontface/css/roboto/sass/roboto-fontface-bold.scss";
 </script>
 
 <template>
