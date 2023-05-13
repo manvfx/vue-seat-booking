@@ -1,6 +1,6 @@
 import { createApp } from 'vue';
 
-import App from './app.vue';
+import App from './App.vue';
 const app = createApp(App);
 
 import { vuetify } from './plugins/vuetify';
